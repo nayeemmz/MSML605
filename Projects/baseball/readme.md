@@ -91,7 +91,7 @@ Write code to produce plots that specifically show at least one of the statement
 
 #### Problem 4
 
-Write code to discretize year into five time periods (you can use [pandas.cut](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.cut.html) to accomplish this) and then make a scatterplot showing mean winning percentage (y-axis) vs. mean payroll (x-axis) for each of the five time periods. You could add a regression line (using, e.g., NumPy's [polyfit](https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html) or Scipy's stats.[linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html)) in each scatter plot to ease interpretation.
+Write code to discretize year into five time periods (you can use [pandas.cut](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html) to accomplish this) and then make a scatterplot showing mean winning percentage (y-axis) vs. mean payroll (x-axis) for each of the five time periods. You could add a regression line (using, e.g., NumPy's [polyfit](https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html) or Scipy's stats.[linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html)) in each scatter plot to ease interpretation.
 
 #### Question 2
 
