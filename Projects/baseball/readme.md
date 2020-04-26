@@ -108,7 +108,7 @@ It looks like comparing payrolls across years is problematic so let's do a trans
 Create a new variable in your dataset that standardizes payroll conditioned on year. It may help to merge salaries and the win percentages tables. So, this column for team `i` in year `j` should equal:
 
 
-
+$$ S_{res}=\int S(\lambda)f(\lambda) d\lambda$$
 $$ standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}} $$
 
 
