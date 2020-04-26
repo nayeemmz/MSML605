@@ -107,7 +107,7 @@ It looks like comparing payrolls across years is problematic so let's do a trans
 
 Create a new variable in your dataset that standardizes payroll conditioned on year. It may help to merge salaries and the win percentages tables. So, this column for team `i` in year `j` should equal:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;tandardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}" title="\Large standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}" />
 
 
 $$standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}$$
