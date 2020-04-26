@@ -110,7 +110,7 @@ Create a new variable in your dataset that standardizes payroll conditioned on y
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}" title="\Large standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}" />
 
 
-$$standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}$$
+$standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}$
 
 $$ S_{res}=\int S(\lambda)f(\lambda) d\lambda$$
 $$ standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}} $$
