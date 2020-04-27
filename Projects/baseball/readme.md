@@ -110,7 +110,11 @@ Create a new variable in your dataset that standardizes payroll conditioned on y
 
 <img src="im1.jpg" width=50%/>
 
-
+<!--
+```
+$ standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}} $
+```
+-->
 
 
 
