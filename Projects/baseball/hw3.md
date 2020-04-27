@@ -109,6 +109,7 @@ Create a new variable in your dataset that standardizes payroll conditioned on y
 
 
 
+<img src="im1.jpg" width=50%/>
 
 for team `i` in year `j`.
 
