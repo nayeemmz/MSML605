@@ -157,6 +157,7 @@ Using this result, we can now create a single plot that makes it easier to compa
 
 Create a new field to compute each team's spending effiency, given by
 
+<img src="im3.jpg" width=50%/>
 <!--
 ```
 $efficiency_{ij} = win\_pct_{ij} − expected\_win\_pct_{ij}$
