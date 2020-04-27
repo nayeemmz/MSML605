@@ -85,7 +85,7 @@ What statements can you make about the distribution of payrolls conditioned on t
 
 #### Problem 3
 
-Write code to produce plots that specifically show at least one of the statements you made in Question 1. For example, if you make a statement that there is a trend for payrolls to decrease over time, make a plot of a statistic for central tendency (e.g., mean payroll) vs. time to show that specficially.
+Write code to produce plots that specifically show at least one of the statements you made in Question 1. For example, if you make a statement that there is a trend for payrolls to decrease over time, make a plot of a statistic for central tendency (e.g., mean payroll) vs. time to show that specifically.
 
 ### Correlation between payroll and winning percentage
 
@@ -174,8 +174,6 @@ Prepare a Jupyter notebook that includes for each Problem: (a) code to carry out
 
 All axes in plots should be labeled in an informative manner. Your answers to any question that refers to a plot should include both (a) a text description of your plot, and (b) a sentence or two of interpretation as it relates to the question asked.
 
-Submit to ELMS at Project 2 Assignment Submission and a .pdf to Gradescope.
+Submit to ELMS at homework 3 Assignment Submission and a .pdf. You may use a .pdf file to answer the questions. Zip the files and upload them as a single compressed file.
 
-## Group work
 
-You are encouraged to work in small groups, but you must prepare your own writeup and submit it. Include the names of the peers who you worked with in the writeup.
