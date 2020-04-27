@@ -122,7 +122,7 @@ Create a new variable in your dataset that standardizes payroll conditioned on y
 </div>
 
 
-<!--![standardize payroll](im1.jpg)-->
+
 
 for team `i` in year `j`.
 
