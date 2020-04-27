@@ -115,12 +115,11 @@ Create a new variable in your dataset that standardizes payroll conditioned on y
 <!--$ standardized\_payroll_{ij} = \frac{{payroll}_{ij} - \overline{payroll}_{j} }{{s}_{j}} $-->
 
 <div class="fig fighighlight">
-  <img src="im1.jpg" width="50%">
+  <img src="/MSML605/Projects/baseball/im1.jpg" width="50%">
   <div class="figcaption">
   </div>
   <div style="clear:both;"></div>
 </div>
-
 
 
 ![standardize payroll](im1.jpg)
