@@ -140,6 +140,8 @@ The regression line gives you expected winning percentage as a function of stand
 
 From these observations we can calculate the expected win percentage for team `i` in year `j` as
 
+<img src="im2.jpg" width=50%/>
+
 <!--
 ```
 ${expected\_win\_pct_{ij} = 50+2.5×standardized\_payroll_{ij}}$
